@@ -326,6 +326,7 @@ you can use the generic selector below, but it's slower:
   h1 {
     font-size: 36px;
     line-height: 42px;
+    margin-right: 5%;
   }
 
   h2 {
