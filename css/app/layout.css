@@ -324,8 +324,8 @@ you can use the generic selector below, but it's slower:
   }
 
   h1 {
-    font-size: 40px;
-    line-height: 46px;
+    font-size: 36px;
+    line-height: 42px;
   }
 
   h2 {
