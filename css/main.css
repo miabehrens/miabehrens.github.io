@@ -21,17 +21,11 @@ html {
     margin: 0 auto;
 }
 
-.work
-{
-    padding: 1%;
-    margin: 0 auto;
+.work {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-
-.case
-{
-}
-
 
 a.projectlink
 {
