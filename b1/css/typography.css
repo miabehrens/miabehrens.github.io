@@ -1,0 +1,66 @@
+.manual-brand-name {
+	font-size: 14px;
+}
+
+.manual-section-number {
+	font-size: 14px;
+}
+
+.manual-paragraph {
+	font-size: 14px;
+}
+
+.manual-section-name {
+	font-size: 14px;
+}
+
+#menu h1 {
+}
+
+.section-hero-header-block > p,
+.section-hero-header-block > h1,
+.section-hero-header-block > h2,
+.section-hero-header-block > h3,
+.section-hero-header-block > h4 {
+	margin: 0;
+	line-height: 1;
+	font-weight: 400;
+}
+
+h1
+{
+	font-size: 90px;
+	letter-spacing: -6px;
+}
+
+h2
+{
+	font-size: 4.209rem;
+	letter-spacing: -3px;
+}
+
+h3
+{
+	font-size: 3.157rem;
+	letter-spacing: -2px;
+	margin-top: 0px;
+	line-height: 0.9;
+}
+
+h4
+{
+	font-size: 1.777rem;
+}
+
+/* INTRO SECTION */
+.manual-section-header,
+.manual-section-sub-header {
+	font-size: 44px;
+}
+
+@media (max-width: 768px) {
+	.manual-section-header,
+	.manual-section-sub-header {
+		font-size: 32px;
+	}
+}
