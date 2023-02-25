@@ -18,8 +18,8 @@
 
 @media (min-width: 768px) {
 	.manual-section .manual-paragraph, .manual-section-number, .manual-section-name, .manual-section-number, .manual-section-download {
-		font-size: 16px;
-		line-height: 1.228571;
+		font-size: 14px;
+		line-height: 1.1;
 	}
 }
 
@@ -30,7 +30,7 @@
 }
 
 .manual-paragraph-small {
-	font-size: 12px;
+	font-size: 10px;
 }
 
 .manual-section-download-container {
